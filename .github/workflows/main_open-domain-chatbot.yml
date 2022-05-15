@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Open-Domain-Chatbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1F193AF33A6466FBBB4B362A1034105 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D7965E67EF9496B88E1F6EC27AF88A6 }}
